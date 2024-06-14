@@ -1,0 +1,4 @@
+/* Ensure full width and remove overflow */
+body {
+  overflow-x: hidden;  /* Prevents horizontal scroll */
+}
